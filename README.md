@@ -1,10 +1,24 @@
+# modern-poetry 现代诗数据库
+
+<p align="center">
+  <a href="https://github.com/qyxtim/modern-poetry/blob/master/LICENSE">
+    <img height="18px" alt="License" src="https://img.shields.io/badge/license-Apache%202.0-blue">
+  </a>
+  <a href="https://github.com/qyxtim/modern-poetry/graphs/contributors">
+    <img height="18px" alt="Contributors" src="https://img.shields.io/github/contributors/qyxtim/modern-poetry.svg">
+  </a>
+  <a href="https://github.com/qyxtim/modern-poetry/graphs/contributors">
+    <img height="18px" alt="Contributors" src="https://img.shields.io/badge/PR-welcome-green">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/qyxtim/modern-poetry">
       <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/logo.png" alt="chinese-poetry">
   </a>
 </p>
-
-# modern-poetry 现代诗数据库
 
  [English_version](#English_version)
 
@@ -27,7 +41,7 @@ Part1: chinese-modern-poetry 中国近现代诗
 
 由于本项目不止局限于中国现代诗，也欢迎英文、法文等语言的诗歌投稿。投稿的内容可以在 issue 内讨论。如果要通过PR投稿，投稿的格式一定要参考以下格式:
 
-```
+```json
 // Format of posts (not for translation)
 [{
 	"author":"author-name",
@@ -51,7 +65,7 @@ Part1: chinese-modern-poetry 中国近现代诗
 
 如果你想要翻译本项目的诗或者找到本项目诗的合适翻译，可以通过如下格式提交：
 
-```
+```json
 // Format of posts (translation)
 [{
 	"author":"author-name(Chinese name)",
@@ -135,7 +149,7 @@ Because the layout of websites that grab modern poetry resources is very messy, 
 
 Since this project is not limited to modern Chinese poetry, poems in English, French and other languages are also welcome to submit. You can discuss your idea on issues. If you want to submit through PR, you must refer to the following format:
 
-```
+```json
 // Format of posts
 
 [{
@@ -161,7 +175,7 @@ Since this project is not limited to modern Chinese poetry, poems in English, Fr
 
 If you want to translate the poetry of this project or find a suitable translation of the poetry of this project, you can submit it in the following format:
 
-```
+```json
 // Format of posts (translation)
 [{
 	"author":"author-name(Chinese name)",
