@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/qyxtim/modern-poetry">
-      <img src="https://i.loli.net/2020/02/05/4LqYP819hbZGwIA.png" alt="chinese-poetry">
+      <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/logo.png" alt="chinese-poetry">
   </a>
 </p>
 
@@ -82,7 +82,25 @@ Part1: chinese-modern-poetry 中国近现代诗
 
 
 
-## Clouds
+## 词云
+
+
+
+中国现代诗：
+
+![](https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-contemporary.png)
+
+
+
+中国当代诗：
+
+![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern-time.png )
+
+
+
+中国近代诗：
+
+![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern.png )
 
 
 
@@ -167,7 +185,26 @@ Note: in PR, please make sure there is no repetition.
 
 
 
-# 
+## Clouds
+
+Chinese contemporary poems：
+
+![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-contemporary.png )
 
 
 
+Chinese modern poems：
+
+![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern-time.png )
+
+
+
+Chinese modern-time poems：
+
+![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern.png )
+
+
+
+## License
+
+[Apache](https://github.com/qyxtim/modern-poetry/blob/master/LICENSE) License
