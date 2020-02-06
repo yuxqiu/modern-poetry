@@ -100,7 +100,7 @@ Part1: chinese-modern-poetry 中国近现代诗
 
 <details>
     <summary>
-        中国当代诗
+        中国近代诗
     </summary>
     <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern.png" style="max-width:100%;">
 </details>
