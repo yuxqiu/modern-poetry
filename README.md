@@ -84,23 +84,26 @@ Part1: chinese-modern-poetry 中国近现代诗
 
 ## 词云
 
+<details open="">
+    <summary>
+        中国现代诗
+    </summary>
+    <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-contemporary.png" style="max-width:100%;">
+</details>
 
+<details>
+    <summary>
+        中国当代诗
+    </summary>
+    <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern-time.png" style="max-width: 100%;">
+</details>
 
-中国现代诗：
-
-![](https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-contemporary.png)
-
-
-
-中国当代诗：
-
-![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern-time.png )
-
-
-
-中国近代诗：
-
-![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern.png )
+<details>
+    <summary>
+        中国当代诗
+    </summary>
+    <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern.png" style="max-width:100%;">
+</details>
 
 
 
@@ -191,21 +194,26 @@ Note: in PR, please make sure there is no repetition.
 
 ## Clouds
 
-Chinese contemporary poems：
+<details open="">
+    <summary>
+        Chinese contemporary poem
+    </summary>
+    <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-contemporary.png" style="max-width:100%;">
+</details>
 
-![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-contemporary.png )
+<details>
+    <summary>
+        Chinese modern poem
+    </summary>
+    <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern-time.png" style="max-width: 100%">
+</details>
 
-
-
-Chinese modern poems：
-
-![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern-time.png )
-
-
-
-Chinese modern-time poems：
-
-![]( https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern.png )
+<details>
+    <summary>
+        Chinese modern-time poem
+    </summary>
+    <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern.png" style="max-width:100%;">
+</details>
 
 
 
