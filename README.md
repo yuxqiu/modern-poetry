@@ -20,15 +20,19 @@
   </a>
 </p>
 
- [English_version](#English_version)
+ [Chinese_version](#Chinese_version) | [English_version](#English_version)
+
+---
 
 
+
+# Chinese_version
 
 Part1: chinese-modern-poetry 中国近现代诗
 
 最全的中国近现代诗数据库，包含约5000首中国现代诗、3000首当代诗、三万首近现代诗。数据来源于互联网。
 
-**做这个仓库的原因：** 我本人是个爱好诗歌的人，尤其是近代诗歌。但网上却缺少一个很好的中国近代诗库，所以我便抽出了时间做了这个项目。本项目采用 json 分发数据。日后本项目会加入英语的现代诗以及稍微久远一些的诗，如莎士比亚的作品。
+**做这个仓库的原因：** 我本人是个爱好诗歌的人，尤其是近代诗歌。但网上却缺少一个很好的中国近代诗库，所以我便抽出了时间做了这个项目。本项目采用 json 分发数据。日后本项目会加入英语的现代诗以及稍微久远一些的诗，如莎士比亚的作品。想要了解数据爬取过程的可以点击👉 [Modern poetry 现代诗数据库爬取过程]( https://blog.blinkstar.cn/post/modern-poetry-data-gathering/ )。
 
 
 
@@ -131,13 +135,17 @@ Part1: chinese-modern-poetry 中国近现代诗
 
 
 
+---
+
+
+
 # English_version
 
 Part1: chinese-modern-poetry
 
 The most comprehensive database of modern Chinese poetry contains about 5,000 modern Chinese poems, 3,000 contemporary poems and 30,000 modern Chinese poems. The data comes from the Internet.
 
-**Reasons for this repository:** I am a lover of poetry, especially modern poetry. However, there is a lack of a good library of modern Chinese poems online, so I took the time to do this project. This project USES json to distribute data. The project will include modern poetry in English as well as older poetry, such as Shakespeare in the future.
+**Reasons for this repository:** I am a lover of poetry, especially modern poetry. However, there is a lack of a good library of modern Chinese poems online, so I took the time to do this project. This project USES json to distribute data. The project will include modern poetry in English as well as older poetry, such as Shakespeare in the future. If you want to know how to gather the data, you can read this article 👉 [Modern poetry database crawling process]( https://blog.blinkstar.cn/post/modern-poetry-data-gathering/ ).
 
 ## Contribution
 
