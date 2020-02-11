@@ -38,7 +38,7 @@ Part1: chinese-modern-poetry 中国近现代诗
 
 Part2: poetry from other countries 其它国家的诗
 
-最全的国外是数据库，包含近3万首诗歌，分别来自英国、美国、德国、俄国等其他国家。数据来源于互联网。
+最全的国外诗歌数据库，包含近3万首诗歌，分别来自英国、美国、德国、俄国等其他国家。数据来源于互联网。
 
 做这一部分是想让全球各地的人能够了解到每个地区的不同文化。如果细心看这一部分的 json 文件，可以看到有些文件里有两次作者的名字。这是因为采用了本土语言以及英语。
 
@@ -158,7 +158,7 @@ Part2: poetry from other countries 其它国家的诗
 
 # English_version
 
-Part1: chinese-modern-poetry
+**Part1**: chinese-modern-poetry
 
 The most comprehensive database of modern Chinese poetry contains about 5,000 modern Chinese poems, 3,000 contemporary poems and 30,000 modern Chinese poems. The data comes from the Internet.
 
@@ -166,13 +166,13 @@ The most comprehensive database of modern Chinese poetry contains about 5,000 mo
 
 
 
-Part2: poetry from other countries
+**Part2**: poetry from other countries
 
-The most complete foreign database contains nearly 30,000 poems from Britain, the United States, Germany, Russia and other countries. The data comes from the Internet.
+The most complete foreign poetry database contains nearly 30,000 poems from Britain, the United States, Germany, Russia and other countries. The data comes from the Internet.
 
 This part is to let people from all over the world know the different cultures of each region. If you look closely at the json file in this section, you can see that some of the files have the author's name twice. This is due to the use of native languages as well as English.
 
-**Hope everyone can find their own country, their own name in this warehouse, open source without borders. **
+**Hope everyone can find their own country, their own name in this warehouse, open source without borders.**
 
 
 
