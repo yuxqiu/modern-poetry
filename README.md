@@ -1,4 +1,4 @@
-# modern-poetry 现代诗数据库
+# modern-poetry 中国现代诗和外国诗数据库
 
 <p align="center">
   <a href="https://github.com/qyxtim/modern-poetry/blob/master/LICENSE">
