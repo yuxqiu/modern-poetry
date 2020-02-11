@@ -42,7 +42,7 @@ Part2: poetry from other countries 其它国家的诗
 
 做这一部分是想让全球各地的人能够了解到每个地区的不同文化。如果细心看这一部分的 json 文件，可以看到有些文件里有两次作者的名字。这是因为采用了本土语言以及英语。
 
-**希望每一个人都能在这个仓库里找到自己的国家、自己名族的诗，开源无国界。**
+**希望每一个人都能在这个仓库里找到自己的国家、自己民族的诗，开源无国界。**
 
 
 
@@ -172,7 +172,7 @@ The most complete foreign poetry database contains nearly 30,000 poems from Brit
 
 This part is to let people from all over the world know the different cultures of each region. If you look closely at the json file in this section, you can see that some of the files have the author's name twice. This is due to the use of native languages as well as English.
 
-**Hope everyone can find their own country, their own name in this warehouse, open source without borders.**
+**Hope everyone can find their own country, their own culture in this repository, open source without borders.**
 
 
 
