@@ -36,6 +36,16 @@ Part1: chinese-modern-poetry 中国近现代诗
 
 
 
+Part2: poetry from other countries 其它国家的诗
+
+最全的国外是数据库，包含近3万首诗歌，分别来自英国、美国、德国、俄国等其他国家的诗。数据来源于互联网。
+
+做这一部分是想让全球各地的人能够了解到每个地区的不同文化。如果细心看这一部分的 json 文件，可以看到有些文件里有两次作者的名字。这是因为采用了本土语言以及英语。
+
+**希望每一个人都能在这个仓库里找到自己的国家、自己名族的诗，开源无国界。**
+
+
+
 ## 贡献
 
 由于抓取现代诗资源的网站的布局很乱，所以现代诗的内容以及标题可能会存在有匹配错误的情况，如果发现了问题你可以通过如下方式反馈；
@@ -123,6 +133,13 @@ Part1: chinese-modern-poetry 中国近现代诗
     <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern.png" style="max-width:100%;">
 </details>
 
+<details>
+    <summary>
+        英文诗
+    </summary>
+    <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-English.png" style="max-width:100%;">
+</details>
+
 
 
 ## 贡献者
@@ -146,6 +163,18 @@ Part1: chinese-modern-poetry
 The most comprehensive database of modern Chinese poetry contains about 5,000 modern Chinese poems, 3,000 contemporary poems and 30,000 modern Chinese poems. The data comes from the Internet.
 
 **Reasons for this repository:** I am a lover of poetry, especially modern poetry. However, there is a lack of a good library of modern Chinese poems online, so I took the time to do this project. This project USES json to distribute data. The project will include modern poetry in English as well as older poetry, such as Shakespeare in the future. If you want to know how to gather the data, you can read this article 👉 [Modern poetry database crawling process]( https://blog.blinkstar.cn/post/modern-poetry-data-gathering/ ).
+
+
+
+Part2: poetry from other countries
+
+The most complete foreign database contains nearly 30,000 poems from Britain, the United States, Germany, Russia and other countries. The data comes from the Internet.
+
+This part is to let people from all over the world know the different cultures of each region. If you look closely at the json file in this section, you can see that some of the files have the author's name twice. This is due to the use of native languages as well as English.
+
+**hope everyone can find their own country, their own name in this warehouse, open source without borders. **
+
+
 
 ## Contribution
 
@@ -235,6 +264,13 @@ Note: in PR, please make sure there is no repetition.
         Chinese modern-time poem
     </summary>
     <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-chinese-modern.png" style="max-width:100%;">
+</details>
+
+<details>
+    <summary>
+        Poem from USA and UK
+    </summary>
+    <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-English.png" style="max-width:100%;">
 </details>
 
 
