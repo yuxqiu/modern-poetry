@@ -142,7 +142,15 @@ Part2: poetry from other countries 其它国家的诗
 
 
 
-## 贡献者
+## 这个仓库可以拿来干什么？
+
+这个仓库有很多的用途：
+
+- 从最根源上来说它是一个诗歌数据库，它包含了许多国家的诗集
+- 它可以用来开发一些衍生产品
+	- [一言 - 中国现代诗]( http://poem.blinkstar.cn/ )
+	- 基于 NLP 的现代诗歌创作
+	- ......
 
 
 
@@ -275,9 +283,16 @@ Note: in PR, please make sure there is no repetition.
 
 
 
-## Contributors
+## What can this repository be uessed for?
 
+The warehouse has many USES:
 
+- At its most basic, it is a database of poems from many countries
+
+- It can be used to develop some derivative products
+	- [Chinese Modern Sharing](http://poem.blinkstar.cn/)
+	- Automatic modern poetry generator based on NLP
+	- ...
 
 ## License
 
