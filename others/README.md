@@ -1,0 +1,1 @@
+Please notice that all poems in this folder are not perfect, which means that some of them have encoding problem because of the original storing website. Thus, if you find that some poems are not from your country, please open an issue to tell me the problem, and I will deal with it.
