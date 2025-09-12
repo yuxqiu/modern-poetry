@@ -24,17 +24,13 @@
 
 ---
 
-
-
 # Chinese_version
 
 Part1: chinese-modern-poetry 中国近现代诗
 
 最全的中国近现代诗数据库，包含约5000首中国现代诗、3000首当代诗、三万首近现代诗。数据来源于互联网。
 
-**做这个仓库的原因：** 我本人是个爱好诗歌的人，尤其是近代诗歌。但网上却缺少一个很好的中国近代诗库，所以我便抽出了时间做了这个项目。本项目采用 json 分发数据。日后本项目会加入英语的现代诗以及稍微久远一些的诗，如莎士比亚的作品。想要了解数据爬取过程的可以点击👉 [Modern poetry 现代诗数据库爬取过程]( https://blog.blinkstar.cn/post/modern-poetry-data-gathering/ )。
-
-
+**做这个仓库的原因：** 我本人是个爱好诗歌的人，尤其是近代诗歌。但网上却缺少一个很好的中国近代诗库，所以我便抽出了时间做了这个项目。本项目采用 json 分发数据。日后本项目会加入英语的现代诗以及稍微久远一些的诗，如莎士比亚的作品。
 
 Part2: poetry from other countries 其它国家的诗
 
@@ -42,16 +38,9 @@ Part2: poetry from other countries 其它国家的诗
 
 做这一部分是想让全球各地的人能够了解到每个地区的不同文化。如果细心看这一部分的 json 文件，可以看到有些文件里有两次作者的名字。这是因为采用了本土语言以及英语。
 
-**希望每一个人都能在这个仓库里找到自己的国家、自己民族的诗，开源无国界。**
-
-
-
 ## 贡献
 
-由于抓取现代诗资源的网站的布局很乱，所以现代诗的内容以及标题可能会存在有匹配错误的情况，如果发现了问题你可以通过如下方式反馈；
-
-- 直接提交 PR 或者通过 issue 讨论来优化这个项目
-- 发邮件到我的邮箱 qyxtim@qq.com 来反馈问题
+由于抓取现代诗资源的网站的布局很乱，所以现代诗的内容以及标题可能会存在有匹配错误的情况，如果发现了问题你可以提交 PR 或者通过 issue 讨论来优化这个项目。
 
 由于本项目不止局限于中国现代诗，也欢迎英文、法文等语言的诗歌投稿。投稿的内容可以在 issue 内讨论。如果要通过PR投稿，投稿的格式一定要参考以下格式:
 
@@ -102,8 +91,6 @@ Part2: poetry from other countries 其它国家的诗
 
 注意：在PR时，请一定确保没有重复的内容。
 
-
-
 ## 词云
 
 <details open="">
@@ -134,8 +121,6 @@ Part2: poetry from other countries 其它国家的诗
     <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-English.png" style="max-width:100%;">
 </details>
 
-
-
 ## 这个仓库可以拿来干什么？
 
 这个仓库有很多的用途：
@@ -146,17 +131,11 @@ Part2: poetry from other countries 其它国家的诗
 	- 基于 NLP 的现代诗歌创作
 	- ......
 
-
-
 ## 许可证
 
 [Apache](https://github.com/qyxtim/modern-poetry/blob/master/LICENSE) License
 
-
-
 ---
-
-
 
 # English_version
 
@@ -164,9 +143,7 @@ Part2: poetry from other countries 其它国家的诗
 
 The most comprehensive database of modern Chinese poetry contains about 5,000 modern Chinese poems, 3,000 contemporary poems and 30,000 modern Chinese poems. The data comes from the Internet.
 
-**Reasons for this repository:** I am a lover of poetry, especially modern poetry. However, there is a lack of a good library of modern Chinese poems online, so I took the time to do this project. This project USES json to distribute data. The project will include modern poetry in English as well as older poetry, such as Shakespeare in the future. If you want to know how to gather the data, you can read this article 👉 [Modern poetry database crawling process]( https://blog.blinkstar.cn/post/modern-poetry-data-gathering/ ).
-
-
+**Reasons for this repository:** I am a lover of poetry, especially modern poetry. However, there is a lack of a good library of modern Chinese poems online, so I took the time to do this project. This project USES json to distribute data. The project will include modern poetry in English as well as older poetry, such as Shakespeare in the future.
 
 **Part2**: poetry from other countries
 
@@ -174,17 +151,9 @@ The most complete foreign poetry database contains nearly 30,000 poems from Brit
 
 This part is to let people from all over the world know the different cultures of each region. If you look closely at the json file in this section, you can see that some of the files have the author's name twice. This is due to the use of native languages as well as English.
 
-**Hope everyone can find their own country, their own culture in this repository, open source without borders.**
-
-
-
 ## Contribution
 
-Because the layout of websites that grab modern poetry resources is very messy, there may be matching errors in the content and titles of modern poetry. If you find problems, you can give feedback in the following ways.
-
-- Optimize the project by submitting PR directly or through issue discussion
-
-- Send an email to my email address qyxtim@qq.com for feedback
+Because the layout of websites that grab modern poetry resources is very messy, there may be matching errors in the content and titles of modern poetry. If you find problems, you can give feedback in the following by opening a PR or issue directly.
 
 Since this project is not limited to modern Chinese poetry, poems in English, French and other languages are also welcome to submit. You can discuss your idea on issues. If you want to submit through PR, you must refer to the following format:
 
@@ -237,8 +206,6 @@ If you find that the author you want to translate has already been translated, b
 
 Note: in PR, please make sure there is no repetition.
 
-
-
 ## Clouds
 
 <details open="">
@@ -268,8 +235,6 @@ Note: in PR, please make sure there is no repetition.
     </summary>
     <img src="https://cdn.jsdelivr.net/gh/qyxtim/modern-poetry@master/clouds/cloud-English.png" style="max-width:100%;">
 </details>
-
-
 
 ## What can this repository be uessed for?
 
